@@ -1,0 +1,8 @@
+C:\Users\248773\VS\PIE\PIE\bin\Debug\PIE.exe.config
+C:\Users\248773\VS\PIE\PIE\bin\Debug\PIE.exe
+C:\Users\248773\VS\PIE\PIE\bin\Debug\PIE.pdb
+C:\Users\248773\VS\PIE\PIE\obj\Debug\PIE.csproj.AssemblyReference.cache
+C:\Users\248773\VS\PIE\PIE\obj\Debug\PIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\248773\VS\PIE\PIE\obj\Debug\PIE.csproj.CoreCompileInputs.cache
+C:\Users\248773\VS\PIE\PIE\obj\Debug\PIE.exe
+C:\Users\248773\VS\PIE\PIE\obj\Debug\PIE.pdb
